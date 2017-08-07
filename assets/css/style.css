@@ -126,31 +126,66 @@ a
 
 #hangman
     {
-
+        background-image: url('../images/portfolio_placeholder_1.jpg');
+        height: 200px;
+        width: 275px;
+        z-index: 1;
+        position: relative;
+        float: left;
+        margin: 10px;
     }
 
 #rpg
     {
-
+        background-image: url('../images/portfolio_placeholder_2.jpg');
+        height: 200px;
+        width: 275px;
+        z-index: 1;
+        position: relative;
+        float: left;
+        margin: 10px;
     }
 
 #rps
     {
-
+        background-image: url('../images/portfolio_placeholder_3.jpg');
+        height: 200px;
+        width: 275px;
+        z-index: 1;
+        position: relative;
+        float: left;
+        margin: 10px;
     }
 
 #trivia
     {
-
+        background-image: url('../images/portfolio_placeholder_4.jpg');
+        height: 200px;
+        width: 275px;
+        z-index: 1;
+        position: relative;
+        float: left;
+        margin: 10px;
     }
 
 #rutgers
     {
-
+        background-image: url('../images/portfolio_placeholder_5.jpg');
+        height: 200px;
+        width: 275px;
+        z-index: 1;
+        position: relative;
+        float: left;
+        margin: 10px;
     }
 
 .banner
     {
-
+        background-color: #4aaaa5;
+        width: 275px;
+        z-index:2;
+        position: absolute;
+        bottom: 10px;
+        text-align: center;
     }
 
