@@ -70,6 +70,7 @@ ul li
 li a
     {
         border-right: 1px solid #dddddd;
+        line-height: 5px;
     }
 
 h2
