@@ -41,6 +41,11 @@ footer
         border-top: 8px solid #4aaaa5;
     }
 
+footer p
+    {
+        padding-top: 10px;
+    }
+
 nav
     {
         margin-right: 24%;
