@@ -34,11 +34,12 @@ footer
         height: 100px;
         text-align: center;
         font-size: 12px;
-        position: absolute;
+        position: fixed;
         bottom: 0;
         left: 0;
         width: 100%;
         border-top: 8px solid #4aaaa5;
+        z-index: 10;
     }
 
 footer p
@@ -59,6 +60,7 @@ ul
         margin: -10px;
         padding-right:  0;
         text-align: center;
+
     }
 
 ul li
@@ -67,10 +69,11 @@ ul li
         font-size: 18px;
     }
 
-li a
+ul li a
     {
-        border-right: 1px solid #dddddd;
         line-height: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 
 h2
@@ -94,8 +97,6 @@ section
         float: left;
         color: #777777;
         margin-bottom: 25px;
-        height: auto;
-
     }
 
 form
@@ -116,7 +117,6 @@ label, input
         margin-bottom: 5px;
         margin-top: 5px;
     }
-
 
 article
     {
@@ -157,6 +157,12 @@ textarea
         width: 600px;
         height: 180px;
         border: 1px solid #dddddd;
+    }
+
+#lines
+    {
+        border-right: 1px solid #dddddd;
+        border-left: 1px solid #dddddd;
     }
 
 #contact
