@@ -49,8 +49,9 @@ footer p
 
 nav
     {
-        margin-right: 24%;
+        margin-right: 22%;
         color: #dddddd;
+        padding-top: 13px;
     }
 
 ul
