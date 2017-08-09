@@ -76,6 +76,12 @@ ul li a
         padding-bottom: 5px;
     }
 
+h1
+    {
+        font-size: 32px;
+        padding: 21px;
+    }
+
 h2
     {
         color: #4aaaa5;
